@@ -1,0 +1,70 @@
+{
+  "id": "contact",
+  "type": "SharedSlice",
+  "name": "Contact",
+  "description": "Contact",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "subtitle": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Subtitle",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "heading1,heading2,paragraph"
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading1,heading2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          }
+        },
+        "recipient_email_address": {
+          "type": "Text",
+          "config": {
+            "label": "Recipient Email Address",
+            "placeholder": "Defaults to the value in Settings. Can add comma separated values."
+          }
+        },
+        "form_success_message": {
+          "type": "Text",
+          "config": {
+            "label": "Form success message",
+            "placeholder": ""
+          }
+        },
+        "map_iframe_url": {
+          "type": "Link",
+          "config": {
+            "label": "Map iFrame URL",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "select": null,
+            "allowText": false
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

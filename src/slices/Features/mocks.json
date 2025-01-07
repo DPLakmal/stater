@@ -1,0 +1,1585 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "featuresWithButton",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "None",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "None",
+        "type": "Select"
+      },
+      "feature_subtitle": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Dorem ipsum",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "feature_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Lorem ipsum dolor.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "feature_description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Korem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "features": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Lorem ipsum dolor",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Dorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "origin": {
+                    "id": "main",
+                    "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+                    "width": 3024,
+                    "height": 3778
+                  },
+                  "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+                  "width": 3024,
+                  "height": 3778,
+                  "edit": {
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "background": "transparent"
+                  },
+                  "credits": null,
+                  "alt": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Dorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "orange fruits under blue sky during daytime",
+                  "origin": {
+                    "id": "eaOjEz8746k",
+                    "url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 5688,
+                    "height": 3792
+                  },
+                  "width": 5688,
+                  "height": 3792,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Dorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1589558176370-5a120f5e7057?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzM0MDY1OTIzfDA&ixlib=rb-4.0.3&q=85",
+                  "alt": "person holding brown wooden ladle",
+                  "origin": {
+                    "id": "86erkIJeSpg",
+                    "url": "https://images.unsplash.com/photo-1589558176370-5a120f5e7057?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzM0MDY1OTIzfDA&ixlib=rb-4.0.3&q=85",
+                    "width": 3024,
+                    "height": 4032
+                  },
+                  "width": 3024,
+                  "height": 4032,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "feature_main_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+          "width": 3648,
+          "height": 4560
+        },
+        "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+        "width": 3648,
+        "height": 4560,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "buttons": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "ship",
+                  "type": "Text"
+                }
+              ],
+              [
+                "button_link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "https://slicemachine.dev",
+                    "text": "rice"
+                  }
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Primary"
+                }
+              ],
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Secondary"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "featuresWithCards",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "None",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "feature_subtitle": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Features",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "feature_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Lorem ipsum dolor sit amet consectetur.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "feature_description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "features": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Custom Design",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Cillum do incididunt voluptate esse nulla elit et mollit quis qui commodo Lorem officia proident."
+                      }
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "origin": {
+                    "id": "main",
+                    "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+                    "width": 3277,
+                    "height": 4092
+                  },
+                  "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+                  "width": 3277,
+                  "height": 4092,
+                  "edit": {
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "background": "transparent"
+                  },
+                  "credits": null,
+                  "alt": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ],
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ],
+              [
+                "button_link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "https://slicemachine.dev",
+                    "text": "elephant"
+                  }
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Secondary"
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Custom Design",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "orange fruit on brown wooden table",
+                  "origin": {
+                    "id": "agP9RgnWZAY",
+                    "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 5143,
+                    "height": 4114
+                  },
+                  "width": 5143,
+                  "height": 4114,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ],
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Link"
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Custom Design",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "orange fruit on brown wooden table",
+                  "origin": {
+                    "id": "agP9RgnWZAY",
+                    "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 5143,
+                    "height": 4114
+                  },
+                  "width": 5143,
+                  "height": 4114,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Secondary"
+                }
+              ],
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Custom Design",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1587366317133-62e39082c34d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw1fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "sliced orange fruit on brown wooden table",
+                  "origin": {
+                    "id": "sQi9FM6NYVY",
+                    "url": "https://images.unsplash.com/photo-1587366317133-62e39082c34d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw1fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 4000,
+                    "height": 6000
+                  },
+                  "width": 4000,
+                  "height": 6000,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Link"
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ],
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "button": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "country",
+                  "type": "Text"
+                }
+              ],
+              [
+                "button_link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "http://google.com",
+                    "text": "battle"
+                  }
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "buttons": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Primary"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Secondary"
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "featuresWith3Cards",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "feature_subtitle": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Features",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "feature_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Lorem ipsum dolor sit amet consectetur.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "feature_description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "features": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "Custom Design",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "origin": {
+                    "id": "main",
+                    "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+                    "width": 12288,
+                    "height": 16384
+                  },
+                  "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+                  "width": 12288,
+                  "height": 16384,
+                  "edit": {
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "background": "transparent"
+                  },
+                  "credits": null,
+                  "alt": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ],
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ],
+              [
+                "button_link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "https://prismic.io",
+                    "text": "fort"
+                  }
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Link"
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "Custom Design",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "orange fruit on brown wooden table",
+                  "origin": {
+                    "id": "agP9RgnWZAY",
+                    "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 5143,
+                    "height": 4114
+                  },
+                  "width": 5143,
+                  "height": 4114,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Link"
+                }
+              ],
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "Custom Design",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "orange fruit on brown wooden table",
+                  "origin": {
+                    "id": "agP9RgnWZAY",
+                    "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 5143,
+                    "height": 4114
+                  },
+                  "width": 5143,
+                  "height": 4114,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Link"
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Right"
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ArrowForwardFill"
+                }
+              ],
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "buttons": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "button_title",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "raise",
+                  "type": "Text"
+                }
+              ],
+              [
+                "button_link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "https://prismic.io",
+                    "text": "herd"
+                  }
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "Right",
+                  "type": "Select"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "Primary",
+                  "type": "Select"
+                }
+              ],
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Secondary"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "feature_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Lorem ipsum dolor.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "feature_description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Korem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "features": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Lorem ipsum dolor",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Korem ipsum dolor sit amet, consectetur",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "origin": {
+                    "id": "main",
+                    "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+                    "width": 6000,
+                    "height": 4000
+                  },
+                  "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+                  "width": 6000,
+                  "height": 4000,
+                  "edit": {
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "background": "transparent"
+                  },
+                  "credits": null,
+                  "alt": null,
+                  "__TYPE__": "ImageContent",
+                  "thumbnails": {}
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Lorem ipsum dolor",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Korem ipsum dolor sit amet, consectetur",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "__TYPE__": "ImageContent",
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "orange fruit on brown wooden table",
+                  "origin": {
+                    "id": "agP9RgnWZAY",
+                    "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 5143,
+                    "height": 4114
+                  },
+                  "width": 5143,
+                  "height": 4114,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "thumbnails": {}
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "feature_title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Lorem ipsum dolor",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_description",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Korem ipsum dolor sit amet, consectetur",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "feature_image",
+                {
+                  "__TYPE__": "ImageContent",
+                  "provider": "imgix",
+                  "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                  "alt": "orange fruit on brown wooden table",
+                  "origin": {
+                    "id": "agP9RgnWZAY",
+                    "url": "https://images.unsplash.com/photo-1610040855959-27944b04f12d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzQwNjU5MjN8MA&ixlib=rb-4.0.3&q=85",
+                    "width": 5143,
+                    "height": 4114
+                  },
+                  "width": 5143,
+                  "height": 4114,
+                  "edit": {
+                    "background": "transparent",
+                    "zoom": 1,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "thumbnails": {}
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "feature_main_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1607582278038-6bebbd4d7b72",
+          "width": 4010,
+          "height": 4010
+        },
+        "url": "https://images.unsplash.com/photo-1607582278038-6bebbd4d7b72",
+        "width": 4010,
+        "height": 4010,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "feature_subtitle": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Features",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "type": "Select",
+        "value": "Full"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "type": "Select",
+        "value": "Full"
+      }
+    },
+    "items": []
+  }
+]

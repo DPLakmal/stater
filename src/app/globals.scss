@@ -1,0 +1,171 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "Futura PT Normal";
+  src: url("../assets/fonts/FuturaCyrillicMedium.ttf");
+}
+
+@font-face {
+  font-family: "Futura PT Light";
+  src: url("../assets/fonts/FuturaCyrillicLight.ttf");
+}
+
+@font-face {
+  font-family: "Futura PT Bold";
+  src: url("../assets/fonts/FuturaCyrillicBold.ttf");
+}
+
+.title-font {
+  font-family: "Futura PT Normal";
+
+  .light {
+    font-family: "Futura PT Light";
+  }
+
+  .bold {
+    font-family: "Futura PT Bold";
+  }
+}
+
+body {
+  font-family: var(--font-inter);
+}
+
+.text-title-3x-large {
+  @apply text-[48px] leading-[48px] md:text-[80px] md:leading-[80px] text-title-color;
+}
+
+.text-title-2x-large {
+  @apply text-[40px] leading-[44px] md:text-[64px] md:leading-[70px] text-title-color;
+}
+
+.text-title-x-large {
+  @apply text-[32px] leading-[38px] md:text-[48px] md:leading-[52px] text-title-color;
+}
+
+.text-title-large {
+  @apply text-[24px] leading-[28px] md:text-[36px] md:leading-[40px] text-title-color;
+}
+
+.text-title-medium {
+  @apply text-[20px] leading-[26px] md:text-[24px] md:leading-[32px] text-title-color;
+}
+
+.text-title-base {
+  @apply text-[18px] leading-[26px] md:text-[20px] md:leading-[26px] text-title-color;
+}
+
+.text-body-large {
+  @apply text-[24px] leading-[28px] md:text-[24px] md:leading-[34px] text-body-color;
+}
+
+.text-body-medium {
+  @apply text-[18px] leading-[26px] md:text-[20px] md:leading-[28px];
+}
+
+.text-body-small {
+  @apply text-[16px] leading-[22px] md:text-[18px] md:leading-[26px] text-body-color;
+}
+
+.text-body-base {
+  @apply text-[16px] leading-[22px] md:text-[16px] md:leading-[22px];
+}
+
+.text-body-caption {
+  @apply text-[12px] leading-[20px] md:text-[12px] md:leading-[20px] text-body-color;
+}
+
+.btn {
+  @apply flex items-center text-center px-5 py-2 rounded-[10px] transition-all ease-linear;
+}
+
+.btn-primary {
+  @apply text-black bg-primary;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+  @apply bg-primary-hover;
+}
+
+@screen md {
+  .btn-primary {
+    @apply px-6 py-3;
+  }
+}
+
+.btn-secondary {
+  @apply text-black border border-primary bg-transparent text-body-base;
+}
+
+.btn-secondary:active,
+.btn-secondary:hover {
+  @apply bg-secondary-hover text-black;
+}
+
+@screen md {
+  .btn-secondary {
+    @apply px-6 py-3;
+  }
+}
+
+.main-nav-item {
+  & > a {
+    & > button {
+      @media (min-width: 1200px) {
+        margin-left: 10px !important;
+      }
+    }
+  }
+}
+
+.main-nav-dropdown-links-wrapper {
+  overflow: hidden;
+  width: 100%;
+  padding-left: 10px;
+  border-radius: 10px;
+
+  li {
+    overflow: hidden;
+
+    &:first-child {
+      margin-top: 8px;
+    }
+
+    a {
+      white-space: nowrap;
+      max-width: 100%;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      padding: 9px 16px;
+      transition: all 0.2s linear;
+
+      &:hover {
+        background: #eee;
+      }
+    }
+  }
+
+  @media (min-width: 1200px) {
+    position: absolute;
+    background: white;
+    top: 99%;
+    left: -25px;
+    width: 250px;
+    padding: 0;
+    box-shadow:
+      0 20px 25px -5px rgb(0 0 0 / 0.1),
+      0 8px 10px -6px rgb(0 0 0 / 0.1);
+
+    li {
+      margin: 0 !important;
+    }
+  }
+}

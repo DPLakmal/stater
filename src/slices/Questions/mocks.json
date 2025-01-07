@@ -1,0 +1,748 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "None",
+        "type": "Select"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Sentence"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ut adipisicing sint ut excepteur aliquip incididunt tempor eiusmod mollit cillum qui do in. Deserunt dolor ut est commodo velit culpa eiusmod cillum laboris nostrud ad veniam. Incididunt nisi ipsum labore mollit consequat ullamco cillum duis aliqua magna exercitation occaecat."
+            }
+          }
+        ]
+      },
+      "faqs": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "Lorem ipsum dolor sit amet, consectetur?",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "sdfffffffas",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Elit cillum consequat fugiat consequat occaecat. Minim nisi do cupidatat et magna qui id proident officia ut aute laborum. Occaecat aliqua Lorem minim.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "faq_background": {
+        "__TYPE__": "FieldContent",
+        "value": "#3bba1c",
+        "type": "Color"
+      },
+      "sub_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Golden"
+            }
+          }
+        ]
+      }
+    },
+    "items": []
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "variation2",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "sub_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Group"
+            }
+          }
+        ]
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Frequently asked questions",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ipsum officia pariatur id ex non eu pariatur do minim laboris cupidatat et non enim irure."
+            }
+          }
+        ]
+      },
+      "buttons": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "link",
+                {
+                  "key": "8d538a6f-256f-4ab3-a81e-6070824b3949",
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "http://google.com"
+                  }
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "Right",
+                  "type": "Select"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Primary"
+                }
+              ],
+              [
+                "icon_name",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Person"
+                }
+              ],
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Button Text"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "faq_background": {
+        "__TYPE__": "FieldContent",
+        "value": "#b4c0fc",
+        "type": "Color"
+      },
+      "faqs": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "Lorem ipsum dolor sit amet, consectetur? 1",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "Lorem ipsum dolor sit amet, consectetur? 2",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "variation3",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "sub_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Anything"
+            }
+          }
+        ]
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Perfectly"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ullamco adipisicing occaecat in voluptate consequat incididunt enim incididunt ullamco voluptate esse sit. Lorem dolore elit eu cupidatat ut occaecat nisi dolore est est nisi nisi pariatur enim fugiat."
+            }
+          }
+        ]
+      },
+      "faq_background": {
+        "__TYPE__": "FieldContent",
+        "value": "#3a49df",
+        "type": "Color"
+      },
+      "faqs": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "Officer"
+                      }
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Dolor ut eu qui pariatur in commodo et mollit commodo ullamco voluptate laborum occaecat proident esse. Duis voluptate aute aliqua id pariatur excepteur laboris. Ex deserunt est ad qui commodo eiusmod exercitation veniam voluptate adipisicing irure."
+                      }
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Dolor ut eu qui pariatur in commodo et mollit commodo ullamco voluptate laborum occaecat proident esse. Duis voluptate aute aliqua id pariatur excepteur laboris. Ex deserunt est ad qui commodo eiusmod exercitation veniam voluptate adipisicing irure.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "sdfsssssssssssssssssssssss",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "variation4",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "type": "Select",
+        "value": "Full"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "sub_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Voyage"
+            }
+          }
+        ]
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Negative"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Velit sunt cillum laboris culpa elit. Est non excepteur consectetur minim id ullamco do adipisicing adipisicing exercitation quis."
+            }
+          }
+        ]
+      },
+      "faq_background": {
+        "__TYPE__": "FieldContent",
+        "value": "#49463b",
+        "type": "Color"
+      },
+      "faqs": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "Ruler"
+                      }
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Id veniam aliquip exercitation excepteur consectetur voluptate reprehenderit cillum. Velit officia cillum labore cupidatat non cupidatat sit."
+                      }
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Id veniam aliquip exercitation excepteur consectetur voluptate reprehenderit cillum. Velit officia cillum labore cupidatat non cupidatat sit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "sfsdfsdfsdf",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "fsdfsdf",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Id veniam aliquip exercitation excepteur consectetur voluptate reprehenderit cillum. Velit officia cillum labore cupidatat non cupidatat sit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "sfasdf",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Id veniam aliquip exercitation excepteur consectetur voluptate reprehenderit cillum. Velit officia cillum labore cupidatat non cupidatat sit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Id veniam aliquip exercitation excepteur consectetur voluptate reprehenderit cillum. Velit officia cillum labore cupidatat non cupidatat sit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "dsfsdf",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "answer",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Id veniam aliquip exercitation excepteur consectetur voluptate reprehenderit cillum. Velit officia cillum labore cupidatat non cupidatat sit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "question",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "heading5",
+                      "content": {
+                        "text": "fasfsdf",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]

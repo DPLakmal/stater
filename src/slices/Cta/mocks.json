@@ -1,0 +1,217 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "cta_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Church"
+            }
+          }
+        ]
+      },
+      "cta_description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Reprehenderit commodo eu et mollit voluptate exercitation nisi proident."
+            }
+          }
+        ]
+      },
+      "buttons": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "Right",
+                  "type": "Select"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Primary"
+                }
+              ],
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Twitter"
+                }
+              ],
+              [
+                "link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "http://twitter.com",
+                    "target": "_blank"
+                  }
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": []
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "fullWidth",
+    "primary": {
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Full",
+        "type": "Select"
+      },
+      "cta_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Speech 2",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "cta_description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Dolor velit ullamco quis quis exercitation incididunt proident qui."
+            }
+          }
+        ]
+      },
+      "buttons": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "band",
+                  "type": "Text"
+                }
+              ],
+              [
+                "link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "http://google.com",
+                    "target": "_blank"
+                  }
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "Right",
+                  "type": "Select"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Primary"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "label",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "Another"
+                }
+              ],
+              [
+                "variant",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Secondary"
+                }
+              ],
+              [
+                "link",
+                {
+                  "__TYPE__": "LinkContent",
+                  "value": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "https://google.com",
+                    "target": "_blank"
+                  }
+                }
+              ],
+              [
+                "icon_alignment",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Select",
+                  "value": "Left"
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]

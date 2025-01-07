@@ -1,0 +1,644 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "statistics_cards": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Happy Customers",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "race",
+                  "type": "Text"
+                }
+              ],
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "61",
+                  "type": "Number"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Active users",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "held",
+                  "type": "Text"
+                }
+              ],
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "50",
+                  "type": "Number"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Team members",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "scientist",
+                  "type": "Text"
+                }
+              ],
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "3",
+                  "type": "Number"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Company growth",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "evidence",
+                  "type": "Text"
+                }
+              ],
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "value": "16",
+                  "type": "Number"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "type": "Select",
+        "value": "Full"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "type": "Select",
+        "value": "Full"
+      }
+    },
+    "items": []
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "variation3",
+    "primary": {
+      "statistics_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ad cillum cupidatat excepteur culpa."
+            }
+          }
+        ]
+      },
+      "statistics_cards": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "343"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Aute laboris labore ipsum et pariatur labore dolore Lorem nisi in ut Lorem aliquip sunt aliqua. Et duis pariatur pariatur eiusmod. Enim non magna nisi tempor cupidatat et."
+                      }
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "sddd"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "33"
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "dgdfgf"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "333",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "33"
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ddd"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "ddd",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "333"
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ddd"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "ddd",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "33"
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ddd"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "ddd",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "3"
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "ddd"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "ss",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "show_divider": {
+        "__TYPE__": "BooleanContent",
+        "value": true
+      },
+      "statistics_subtitle": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Excepteur labore proident cupidatat cupidatat ipsum adipisicing qui."
+            }
+          }
+        ]
+      },
+      "statistics_description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Reprehenderit dolore veniam eiusmod pariatur labore id id reprehenderit eiusmod elit culpa cillum amet sunt ullamco. Elit velit cillum laboris ea ut consectetur et minim mollit consequat. Nisi anim exercitation elit consequat labore aliqua reprehenderit irure et Lorem quis exercitation quis."
+            }
+          }
+        ]
+      },
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Half",
+        "type": "Select"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "value": "Full",
+        "type": "Select"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "variation2",
+    "primary": {
+      "statistics_cards": {
+        "__TYPE__": "GroupContentType",
+        "value": [
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "44"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Borem ipsum dolor sit amet consectetur adipiscing elit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "min"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "555"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Borem ipsum dolor sit amet consectetur adipiscing elit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "per"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "66"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Borem ipsum dolor sit amet consectetur adipiscing elit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "$"
+                }
+              ]
+            ]
+          },
+          {
+            "__TYPE__": "GroupItemContent",
+            "value": [
+              [
+                "count",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Number",
+                  "value": "66"
+                }
+              ],
+              [
+                "title",
+                {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Borem ipsum dolor sit amet consectetur adipiscing elit.",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              ],
+              [
+                "count_suffix",
+                {
+                  "__TYPE__": "FieldContent",
+                  "type": "Text",
+                  "value": "%"
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "statistics_title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Our results in numbers",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "top_padding": {
+        "__TYPE__": "FieldContent",
+        "type": "Select",
+        "value": "Full"
+      },
+      "bottom_padding": {
+        "__TYPE__": "FieldContent",
+        "type": "Select",
+        "value": "Full"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]

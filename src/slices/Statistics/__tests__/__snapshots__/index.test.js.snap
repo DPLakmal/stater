@@ -1,0 +1,2287 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Statistics Component first variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="grid grid-cols-2 gap-[20px] md:grid-cols-4 md:grid-x-[90px] items-center justify-center bg-white"
+        >
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0race
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0held
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0scientist
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0evidence
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component first variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="grid grid-cols-2 gap-[20px] md:grid-cols-4 md:grid-x-[90px] items-center justify-center bg-white"
+        >
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0race
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0held
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0scientist
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0evidence
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component first variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="grid grid-cols-2 gap-[20px] md:grid-cols-4 md:grid-x-[90px] items-center justify-center bg-white"
+        >
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0race
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0held
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0scientist
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0evidence
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component first variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="grid grid-cols-2 gap-[20px] md:grid-cols-4 md:grid-x-[90px] items-center justify-center bg-white"
+        >
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0race
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0held
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0scientist
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0evidence
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component first variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="grid grid-cols-2 gap-[20px] md:grid-cols-4 md:grid-x-[90px] items-center justify-center bg-white"
+        >
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0race
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0held
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0scientist
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0evidence
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component first variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="grid grid-cols-2 gap-[20px] md:grid-cols-4 md:grid-x-[90px] items-center justify-center bg-white"
+        >
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0race
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0held
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0scientist
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center"
+          >
+            <div
+              class="mx-[24px] text-title-x-large"
+            >
+              <div>
+                <span>
+                  0evidence
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component second variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation3"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center"
+        >
+          <div
+            class="bg-white"
+          >
+            <div
+              class="text-center 2xl:w-[1440px] 2xl:h-[616px] 2xl:p-[60px_80px]"
+            >
+              <div
+                class="mb-[10px] text-[#797979]"
+              />
+              <div
+                class="mb-[20px]"
+              />
+              <div
+                class="mb-[60px] text-[#2B2B2B]"
+              />
+              <div
+                class="grid grid-cols-2 md:grid-cols-3 2xl:px-[89.5px]"
+              >
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                       
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0sddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0dgdfgf
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                      md:border-b-[0px] md:border-t-[0px] 
+                       
+                       
+                       
+                       xl:border-l-[0px] 
+                       
+                      xl:border-r-[0px] xl:border-t-[0px] 
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                      md:border-t-[1px] md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                      md:border-t-[1px] md:border-r-[1px] 
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                       
+                      md:border-t-[1px] md:border-l-[0px] 
+                       xl:border-l-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component second variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation3"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center"
+        >
+          <div
+            class="bg-white"
+          >
+            <div
+              class="text-center 2xl:w-[1440px] 2xl:h-[616px] 2xl:p-[60px_80px]"
+            >
+              <div
+                class="mb-[10px] text-[#797979]"
+              />
+              <div
+                class="mb-[20px]"
+              />
+              <div
+                class="mb-[60px] text-[#2B2B2B]"
+              />
+              <div
+                class="grid grid-cols-2 md:grid-cols-3 2xl:px-[89.5px]"
+              >
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                       
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0sddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0dgdfgf
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                      md:border-b-[0px] md:border-t-[0px] 
+                       
+                       
+                       
+                       xl:border-l-[0px] 
+                       
+                      xl:border-r-[0px] xl:border-t-[0px] 
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                      md:border-t-[1px] md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                      md:border-t-[1px] md:border-r-[1px] 
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                       
+                      md:border-t-[1px] md:border-l-[0px] 
+                       xl:border-l-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component second variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation3"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center"
+        >
+          <div
+            class="bg-white"
+          >
+            <div
+              class="text-center 2xl:w-[1440px] 2xl:h-[616px] 2xl:p-[60px_80px]"
+            >
+              <div
+                class="mb-[10px] text-[#797979]"
+              />
+              <div
+                class="mb-[20px]"
+              />
+              <div
+                class="mb-[60px] text-[#2B2B2B]"
+              />
+              <div
+                class="grid grid-cols-2 md:grid-cols-3 2xl:px-[89.5px]"
+              >
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                       
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0sddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0dgdfgf
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                      md:border-b-[0px] md:border-t-[0px] 
+                       
+                       
+                       
+                       xl:border-l-[0px] 
+                       
+                      xl:border-r-[0px] xl:border-t-[0px] 
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                      md:border-t-[1px] md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                      md:border-t-[1px] md:border-r-[1px] 
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                       
+                      md:border-t-[1px] md:border-l-[0px] 
+                       xl:border-l-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component second variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation3"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center"
+        >
+          <div
+            class="bg-white"
+          >
+            <div
+              class="text-center 2xl:w-[1440px] 2xl:h-[616px] 2xl:p-[60px_80px]"
+            >
+              <div
+                class="mb-[10px] text-[#797979]"
+              />
+              <div
+                class="mb-[20px]"
+              />
+              <div
+                class="mb-[60px] text-[#2B2B2B]"
+              />
+              <div
+                class="grid grid-cols-2 md:grid-cols-3 2xl:px-[89.5px]"
+              >
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                       
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0sddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0dgdfgf
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                      md:border-b-[0px] md:border-t-[0px] 
+                       
+                       
+                       
+                       xl:border-l-[0px] 
+                       
+                      xl:border-r-[0px] xl:border-t-[0px] 
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                      md:border-t-[1px] md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                      md:border-t-[1px] md:border-r-[1px] 
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                       
+                      md:border-t-[1px] md:border-l-[0px] 
+                       xl:border-l-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component second variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation3"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[20px] md:pt-[40px] xl:pt-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center"
+        >
+          <div
+            class="bg-white"
+          >
+            <div
+              class="text-center 2xl:w-[1440px] 2xl:h-[616px] 2xl:p-[60px_80px]"
+            >
+              <div
+                class="mb-[10px] text-[#797979]"
+              />
+              <div
+                class="mb-[20px]"
+              />
+              <div
+                class="mb-[60px] text-[#2B2B2B]"
+              />
+              <div
+                class="grid grid-cols-2 md:grid-cols-3 2xl:px-[89.5px]"
+              >
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                       
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0sddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0dgdfgf
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                      md:border-b-[0px] md:border-t-[0px] 
+                       
+                       
+                       
+                       xl:border-l-[0px] 
+                       
+                      xl:border-r-[0px] xl:border-t-[0px] 
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                      md:border-t-[1px] md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                      md:border-t-[1px] md:border-r-[1px] 
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                       
+                      md:border-t-[1px] md:border-l-[0px] 
+                       xl:border-l-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component second variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation3"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center"
+        >
+          <div
+            class="bg-white"
+          >
+            <div
+              class="text-center 2xl:w-[1440px] 2xl:h-[616px] 2xl:p-[60px_80px]"
+            >
+              <div
+                class="mb-[10px] text-[#797979]"
+              />
+              <div
+                class="mb-[20px]"
+              />
+              <div
+                class="mb-[60px] text-[#2B2B2B]"
+              />
+              <div
+                class="grid grid-cols-2 md:grid-cols-3 2xl:px-[89.5px]"
+              >
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                       
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0sddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       
+                       
+                      xl:border-r-[1px] xl:border-l-[0px] xl:border-t-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                   text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0dgdfgf
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                      md:border-b-[0px] md:border-t-[0px] 
+                       
+                       
+                       
+                       xl:border-l-[0px] 
+                       
+                      xl:border-r-[0px] xl:border-t-[0px] 
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                      md:border-t-[1px] md:border-r-[1px] md:border-l-[0px] 
+                       
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                      md:border-t-[1px] md:border-r-[1px] 
+                       
+                       xl:border-l-[0px] 
+                      xl:border-r-[1px] xl:border-t-[1px] 
+                       
+                       
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class=" 
+                       
+                       
+                       
+                      md:border-t-[1px] md:border-l-[0px] 
+                       xl:border-l-[0px] 
+                       
+                       
+                      border-l-[1px] 
+                  border-t-[1px] text-center py-6
+                    }"
+                >
+                  <div
+                    class="text-title-x-large font-semibold text-[#595959] mb-[2px]"
+                  >
+                    <div>
+                      <span>
+                        0ddd
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation with divider renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation without divider renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Statistics Component third variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="variation2"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] "
+        />
+        <div
+          class="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0"
+        >
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0min
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+               border-l-[1px] "
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0per
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-r-[1px]  xl:border-l-0 xl:border-t-0 
+                border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0$
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="text-center px-[8px] py-[18px] md:px-[35px] md:py-[30px] xl:p-0 xl:border-t-0 xl:border-l-0 
+               border-l-[1px] border-t-[1px]"
+          >
+            <div
+              class="md:mx-[35px]"
+            >
+              <div
+                class="mx-[24px] text-title-x-large"
+              >
+                <div>
+                  <span>
+                    0%
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

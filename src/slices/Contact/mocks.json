@@ -1,0 +1,65 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Get in Touch",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Have questions or need more information? Reach out to us.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "form_success_message": {
+        "__TYPE__": "FieldContent",
+        "value": "die",
+        "type": "Text"
+      },
+      "subtitle": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Eiusmod aute",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "map_iframe_url": {
+        "__TYPE__": "LinkContent",
+        "value": {
+          "__TYPE__": "ExternalLink",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      "recipient_email_address": {
+        "__TYPE__": "FieldContent",
+        "value": "shot",
+        "type": "Text"
+      }
+    },
+    "items": []
+  }
+]

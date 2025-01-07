@@ -1,0 +1,36 @@
+import { notFound } from "next/navigation";
+import { createClient } from "@/prismicio";
+import StyledContainer from "@/components/StyledContainer";
+import { StyledPrismicRichText } from "@/components/StyledPrismicRichText";
+import { asText } from "@prismicio/client";
+
+export async function generateMetadata(props) {
+	const params = await props.params; const client = createClient();
+	const page = await client .getByUID("{{formattedId}}",params.uid) .catch(() => notFound());
+
+	return {
+		title: asText(page.data.title),
+		description: page.data.summary, openGraph: { title: page.data.meta_title,
+		images: [{ url: page.data.meta_image?.url }],
+		},
+	};
+
+}
+
+
+export default async function Page(props) {
+	const params = await props.params; const client =createClient();
+	const page = await client .getByUID("{{formattedId}}", params.uid) .catch(() => notFound());
+
+	return (
+		<StyledContainer>
+		  <StyledPrismicRichText field={page.data.title} />
+		</StyledContainer>
+		);
+}
+
+export async function generateStaticParams() {
+	const client = createClient();
+	const items = await client.getAllByType("{{formattedId}}");
+	return items.map((page) => { return { uid: page.uid }; });
+}
