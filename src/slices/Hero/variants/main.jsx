@@ -22,7 +22,7 @@ const Main = ({ slice }) => {
 
           <StyledPrismicRichTextSingle
             field={slice.primary.description}
-            className={"text-body-small pr-[44px] text-[#2B2B2B]"}
+            className={"text-body-small xl:pr-[44px] text-[#2B2B2B]"}
           />
 
           <div className="mt-[20px] md:mt-[24px]">

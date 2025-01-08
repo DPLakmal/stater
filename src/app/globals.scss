@@ -80,7 +80,11 @@ body {
 }
 
 .text-body-caption {
-  @apply text-[12px] leading-[20px] md:text-[12px] md:leading-[20px] text-body-color;
+  @apply text-[12px] leading-[20px] md:text-[12px] md:leading-[20px];
+}
+
+.text-body-p3 {
+  @apply text-[15px] leading-[24px] ;
 }
 
 .btn {
