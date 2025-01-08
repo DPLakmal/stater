@@ -12,15 +12,15 @@ const TestimonialDefault = ({ slice }) => {
         <div className="text-center  ">
           <StyledPrismicRichTextSingle
             field={slice?.primary?.subtitle}
-            className="text-base text-[#1774E0] font-semibold leading-[19.36px]"
+            className="text-body-base text-[#004EB6]"
           />
           <div className="mt-[10px] mb-[10px] md:mt-[20px]">
             <StyledPrismicRichTextSingle
               field={slice?.primary?.title}
-              className="title-font text-title-x-large font-medium"
+              className="title-font text-title-x-large font-medium text-[#262424]"
             />
           </div>
-          <StyledPrismicRichText field={slice?.primary?.description} />
+          <StyledPrismicRichText field={slice?.primary?.description} className="text-body-base text-[#2B2B2B]" />
 
           <div className="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]">
             {slice?.primary?.buttons?.map(
@@ -32,13 +32,13 @@ const TestimonialDefault = ({ slice }) => {
                   icon={icon_name}
                   iconAlignment={icon_alignment}
                   variant={variant?.toLowerCase()}
-                  className=" bg-black h-fit"
+                  className="h-fit"
                 />
               ),
             )}
           </div>
         </div>
-        <div className="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px] xl:mt-[60px]">
+        <div className="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px]">
           <CarousalDefault slice={slice} />
         </div>
       </div>

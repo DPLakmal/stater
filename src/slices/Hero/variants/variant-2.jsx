@@ -11,13 +11,13 @@ const Variant2 = ({ slice }) => {
         <div>
           <StyledPrismicRichTextSingle
             field={slice.primary.subtitle}
-            className={"text-base text-primary font-medium  "}
+            className={"text-base text-primary "}
           />
 
           <StyledPrismicRichTextSingle
             field={slice.primary.title}
             className={
-              "text-title-3x-large  mt-[10px] mb-[12px] md:[18px] xl-[20px] xl:[24px]"
+              "text-title-3x-large font-medium mt-[10px] mb-[12px] md:[18px] xl-[20px] xl:[24px]"
             }
           />
 

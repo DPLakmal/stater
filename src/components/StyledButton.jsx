@@ -22,7 +22,7 @@ const StyledButton = ({
     [className]: true,
     btn: true,
     "btn-primary": variant?.toLowerCase() === "primary",
-    "bg-secondary": variant?.toLowerCase() === "secondary",
+    "btn-secondary": variant?.toLowerCase() === "secondary",
     "btn-link": variant?.toLowerCase() === "link",
   });
 

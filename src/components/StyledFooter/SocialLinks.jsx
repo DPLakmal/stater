@@ -20,7 +20,7 @@ const SocialLinks = ({ links }) => {
             <li
               key={index}
               className={
-                "m-1 bg-[#F0F0F0] p-[10px] rounded-[6px] text-[#00000073]"
+                "m-1 bg-[#F0F0F0] p-[9px] rounded-[6px] text-[#262626]"
               }
             >
               <a
@@ -67,7 +67,7 @@ const getSocialProfiles = (links) => {
       case "Instagram":
         socialLinks.push({
           link: url,
-          icon: <FaInstagram size={size} />,
+          icon: <FaInstagram size={size+2} />,
         });
         break;
       case "LinkedIn":

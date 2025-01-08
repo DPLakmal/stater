@@ -5,6 +5,7 @@ import CountUp from "react-countup";
 const CountUpAnimation = ({ count, count_suffix }) => {
   return (
     <CountUp
+    className="text-[#3D3D3D]"
       start={0}
       end={count}
       duration={2.75}

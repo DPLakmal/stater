@@ -7,24 +7,24 @@ const Main = ({ slice }) => {
   return (
     <StyledContainer slice={slice}>
       <div className="grid grid-cols-1 xl:grid-cols-2 gap-[24px] md:gap-[30px] xl:gap-[21px] items-center">
-        <div>
+        <div className="max-w-[630px] w-full">
           <StyledPrismicRichTextSingle
             field={slice.primary.subtitle}
             className={
-              "text-base text-primary font-medium text-center xl:text-left"
+              "text-body-base text-[#004EB6] text-center xl:text-left"
             }
           />
 
           <StyledPrismicRichTextSingle
             field={slice.primary.title}
             className={
-              "text-title-3x-large text-center xl:text-left mt-[10px] mb-[12px] md:[18px] xl-[20px] xl:[24px]"
+              "text-title-2x-large text-center xl:text-left mt-[10px] mb-[12px] md:mb-[24px] xl-[20px] xl:[24px]"
             }
           />
 
           <StyledPrismicRichTextSingle
             field={slice.primary.description}
-            className={"text-body-base"}
+            className={"text-body-small pr-[44px] text-[#2B2B2B]"}
           />
 
           <div className="mt-[20px] md:mt-[24px]">

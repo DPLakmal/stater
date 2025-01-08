@@ -7,8 +7,8 @@ import React from "react";
 
 const FeaturesWith4Cards = ({ slice }) => {
   return (
-    <StyledContainer slice={slice}>
-      <div className="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]">
+    <StyledContainer slice={slice} className="bg-[#F5F7FA]">
+      <div className="flex flex-col  xl:items-center xl:justify-between">
         <div className="text-center  ">
           <StyledPrismicRichTextSingle
             field={slice.primary.feature_subtitle}
@@ -32,18 +32,18 @@ const FeaturesWith4Cards = ({ slice }) => {
                   icon={icon_name}
                   iconAlignment={icon_alignment}
                   variant={variant?.toLowerCase()}
-                  className=" bg-black h-fit"
+                  className="h-fit"
                 />
               ),
             )}
           </div>
         </div>
 
-        <div className="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] xl:grid-cols-4">
+        <div className="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] w-full xl:grid-cols-4">
           {slice.primary.features.map((item, index) => (
             <div
               key={index}
-              className="flex flex-col items-center text-center bg-[#F9F9F9] px-[10px] py-[20px] gap-y-[10px] "
+              className="flex flex-col items-center text-center bg-white px-[10px] py-[20px] gap-y-[20px] w-full max-w-[305px]"
             >
               <PrismicNextImage
                 fallbackAlt=""

@@ -42,6 +42,12 @@
         "fieldset": "Slice Zone",
         "config": {
           "choices": {
+            "image_description_card_section": {
+              "type": "SharedSlice"
+            },
+            "contact": {
+              "type": "SharedSlice"
+            },
             "paginated_items": {
               "type": "SharedSlice"
             },

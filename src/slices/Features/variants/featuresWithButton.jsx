@@ -7,7 +7,7 @@ import React from "react";
 
 const FeaturesWithButton = ({ slice }) => {
   return (
-    <StyledContainer slice={slice}>
+    <StyledContainer slice={slice} className="bg-[#F5F7FA]">
       <div className="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]">
         <div className="flex flex-col xl:flex-row xl:justify-between w-fit">
           <div className="xl:w-1/2 text-center md:text-start ">
@@ -33,7 +33,7 @@ const FeaturesWithButton = ({ slice }) => {
                   icon={icon_name}
                   iconAlignment={icon_alignment}
                   variant={variant?.toLowerCase()}
-                  className=" bg-black h-fit"
+                  className="h-fit"
                 />
               ),
             )}

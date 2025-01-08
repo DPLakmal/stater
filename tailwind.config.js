@@ -12,14 +12,14 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: "#D9D9D9", //default primaru color
-        "primary-hover": "#797979", // hover color 45% opacity
+        primary: "#1870E4", //default primaru color
+        "primary-hover": "#4780CF", // hover color 45% opacity
         "primary-pressed": "#000747", // pressed drak blue color
         secondary: "#FFFFFF",
         "secondary-hover": "#F5F5F5",
         "secondary-pressed": "#FFFFFF",
         "secondary-border": "#797979",
-        "secondary-border-hover": "#797979",
+        "secondary-border-hover": "#262424",
         "secondary-border-pressed": "#1870E4",
         highlight: "#F5F7FA",
         "body-color": "#000",

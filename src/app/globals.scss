@@ -38,31 +38,31 @@ body {
 }
 
 .text-title-3x-large {
-  @apply text-[48px] leading-[48px] md:text-[80px] md:leading-[80px] text-title-color;
+  @apply text-[48px] leading-[48px] md:text-[80px] md:leading-[80px];
 }
 
 .text-title-2x-large {
-  @apply text-[40px] leading-[44px] md:text-[64px] md:leading-[70px] text-title-color;
+  @apply text-[40px] leading-[44px] md:text-[64px] md:leading-[70px] ;
 }
 
 .text-title-x-large {
-  @apply text-[32px] leading-[38px] md:text-[48px] md:leading-[52px] text-title-color;
+  @apply text-[32px] leading-[38px] md:text-[48px] md:leading-[52px] ;
 }
 
 .text-title-large {
-  @apply text-[24px] leading-[28px] md:text-[36px] md:leading-[40px] text-title-color;
+  @apply text-[24px] leading-[28px] md:text-[36px] md:leading-[40px] ;
 }
 
 .text-title-medium {
-  @apply text-[20px] leading-[26px] md:text-[24px] md:leading-[32px] text-title-color;
+  @apply text-[20px] leading-[26px] md:text-[24px] md:leading-[32px] ;
 }
 
 .text-title-base {
-  @apply text-[18px] leading-[26px] md:text-[20px] md:leading-[26px] text-title-color;
+  @apply text-[18px] leading-[26px] md:text-[20px] md:leading-[26px] ;
 }
 
 .text-body-large {
-  @apply text-[24px] leading-[28px] md:text-[24px] md:leading-[34px] text-body-color;
+  @apply text-[24px] leading-[28px] md:text-[24px] md:leading-[34px] ;
 }
 
 .text-body-medium {
@@ -70,7 +70,7 @@ body {
 }
 
 .text-body-small {
-  @apply text-[16px] leading-[22px] md:text-[18px] md:leading-[26px] text-body-color;
+  @apply text-[16px] leading-[22px] md:text-[18px] md:leading-[26px] ;
 }
 
 .text-body-base {
@@ -86,7 +86,7 @@ body {
 }
 
 .btn-primary {
-  @apply text-black bg-primary;
+  @apply text-white bg-primary;
 }
 
 .btn-primary:hover,
@@ -96,12 +96,12 @@ body {
 
 @screen md {
   .btn-primary {
-    @apply px-6 py-3;
+    @apply px-6 py-4;
   }
 }
 
 .btn-secondary {
-  @apply text-black border border-primary bg-transparent text-body-base;
+  @apply text-[#262424] border border-secondary-border bg-white text-body-base;
 }
 
 .btn-secondary:active,
@@ -111,7 +111,7 @@ body {
 
 @screen md {
   .btn-secondary {
-    @apply px-6 py-3;
+    @apply px-6 py-4;
   }
 }
 

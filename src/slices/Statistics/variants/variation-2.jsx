@@ -8,7 +8,7 @@ const Variation2 = ({ slice }) => {
       <div className="flex justify-center mb-[20px] md:mb-[30px] xl:mb-[50px] ">
         <StyledPrismicRichTextSingle
           field={slice?.statistics_title}
-          className="text-title-large"
+          className="text-title-large text-[#363636] font-medium"
         />
       </div>
       <div className="grid grid-cols-2 md:grid-x-[90px] items-center justify-center bg-white md:mx-[24px] xl:grid-cols-4 xl:mx-0">
@@ -19,12 +19,12 @@ const Variation2 = ({ slice }) => {
                ${idx === 1 || idx === 3 ? "border-l-[1px]" : ""} ${idx === 2 || idx === 3 ? "border-t-[1px]" : ""}`}
           >
             <div className="md:mx-[35px]">
-              <div className="mx-[24px] text-title-x-large">
+                <div className="mx-[24px] text-title-x-large text-[#004EB6]">
                 <CountUpAnimation count={count} count_suffix={count_suffix} />
               </div>
               <StyledPrismicRichTextSingle
                 field={title}
-                className="text-body-base text-[#00000073]"
+                className="text-body-base text-[#3D3D3D]"
               />
             </div>
           </div>

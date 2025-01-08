@@ -9,7 +9,7 @@ export const components = {
   features: dynamic(() => import("./Features")),
   hero: dynamic(() => import("./Hero")),
   image_description_card_section: dynamic(
-    () => import("./ImageDescriptionCardSection"),
+    () => import("./ImageDescriptionCardSection")
   ),
   logo_carousel: dynamic(() => import("./LogoCarousel")),
   paginated_items: dynamic(() => import("./PaginatedItems")),

@@ -4,12 +4,13 @@ import useDetectScroll from "@smakss/react-scroll-direction";
 
 import React, { useEffect, useState } from "react";
 import { PrismicNextLink } from "@prismicio/next";
-import { PrismicText } from "@prismicio/react";
+import Logo from '@/assets/images/Header-Logo.png'
 import StyledContainer from "@/components/StyledContainer";
 import clsx from "clsx";
 import MenuItem from "@/slices-layout/MenuItem";
 import { CgClose, CgMenuLeft } from "react-icons/cg";
 import AlgoliaSearchModal from "@/components/algolia-search-modal";
+import Image from "next/image";
 
 const NavContainer = ({ settings, navigation }) => {
   const { scrollDir, scrollPosition } = useDetectScroll();
@@ -71,8 +72,8 @@ const NavContainer = ({ settings, navigation }) => {
           <PrismicNextLink
             href="/"
             className="text-xl font-semibold tracking-tight"
-          >
-            <PrismicText field={settings.data.siteTitle} />
+          >          
+             <Image src={Logo} className="max-w-[119px] max-h-[48px]" alt=""/>
           </PrismicNextLink>
           <button
             className={`xl:hidden flex items-center`}

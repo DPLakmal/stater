@@ -9,7 +9,7 @@ const FooterLinkList = ({ slice }) => {
   if (!slice) return null;
   return (
     <div>
-      <h5 className="text-title-base font-medium mb-[16px]">
+      <h5 className="title-font text-title-base font-medium mb-[30px]">
         {slice.primary.title}
       </h5>
       <ul className=" flex flex-col gap-[12px]">
