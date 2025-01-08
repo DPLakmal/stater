@@ -19,7 +19,7 @@ const Variation2 = ({ slice }) => {
                ${idx === 1 || idx === 3 ? "border-l-[1px]" : ""} ${idx === 2 || idx === 3 ? "border-t-[1px]" : ""}`}
           >
             <div className="md:mx-[35px]">
-                <div className="mx-[24px] text-title-x-large text-[#004EB6]">
+              <div className="mx-[24px] text-title-x-large text-[#004EB6]">
                 <CountUpAnimation count={count} count_suffix={count_suffix} />
               </div>
               <StyledPrismicRichTextSingle

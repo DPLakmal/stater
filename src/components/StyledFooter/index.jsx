@@ -5,7 +5,7 @@ import FooterLinkList from "@/slices-layout/FooterLinkList";
 import CopyrightLinks from "@/components/StyledFooter/CopyrightLinks";
 import StyledPrismicRichTextSingle from "../StyledPrismicRichTextSingle";
 import IconDiv from "./components/icon";
-import Logo from '@/assets/images/Logo.png'
+import Logo from "@/assets/images/Logo.png";
 import Image from "next/image";
 
 export default async function StyledFooter({ className }) {
@@ -17,9 +17,13 @@ export default async function StyledFooter({ className }) {
     <footer className={"bg-[#1D1D1D] pt-10 pb-4 overflow-hidden xl:pb-[16px]"}>
       <StyledContainer className="mt-[80px]">
         <div className="grid grid-cols-1 gap-y-[36px] md:gap-y-[40px]  xl:grid-flow-col xl:gap-x-[60px] text-white">
-          <div className={"text-center md:text-left md:col-span-2 max-w-[413px]"}>
-           <Image src={Logo} className="max-w-[119px] max-h-[48px]" alt=""/>
-            <p className="my-[20px] font-normal text-body-base">{settings.data.footer_description}</p>
+          <div
+            className={"text-center md:text-left md:col-span-2 max-w-[413px]"}
+          >
+            <Image src={Logo} className="max-w-[119px] max-h-[48px]" alt="" />
+            <p className="my-[20px] font-normal text-body-base">
+              {settings.data.footer_description}
+            </p>
             <SocialLinks links={settings.data.social_profiles} />
           </div>
           <div className="grid gap-y-[32px] grid-cols-1 md:grid-cols-2  xl:grid-flow-col xl:gap-x-[80px]">

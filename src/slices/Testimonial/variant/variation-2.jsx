@@ -7,7 +7,7 @@ import axios from "axios";
 import getUrlFromHeaders from "@/utils/getUrlFromHeaders";
 
 export default async function TestimonialVariation2({ slice }) {
-  console.log(slice)
+  console.log(slice);
   // Fetch ratings from Google using slice data
   const url = await getUrlFromHeaders("/api/fetch-reviews");
 

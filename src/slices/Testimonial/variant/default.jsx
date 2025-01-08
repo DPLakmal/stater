@@ -20,7 +20,10 @@ const TestimonialDefault = ({ slice }) => {
               className="title-font text-title-x-large font-medium text-[#262424]"
             />
           </div>
-          <StyledPrismicRichText field={slice?.primary?.description} className="text-body-base text-[#2B2B2B]" />
+          <StyledPrismicRichText
+            field={slice?.primary?.description}
+            className="text-body-base text-[#2B2B2B]"
+          />
 
           <div className="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]">
             {slice?.primary?.buttons?.map(

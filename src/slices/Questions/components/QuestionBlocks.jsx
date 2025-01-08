@@ -98,7 +98,7 @@ function Accordion({
   const ref = useRef(null);
 
   useEffect(() => {
-    setHeight(ref.current.clientHeight);
+    setHeight(ref.current.clientHeight + 200);
   }, []);
 
   return (
@@ -114,30 +114,37 @@ function Accordion({
       <div className="flex flex-row items-center justify-between text-left select-none ">
         <StyledPrismicRichTextSingle
           field={title}
-          className={`text-body-medium`}
+          className={`text-title-basse font-semibold`}
         />
         <div
           className={clsx({
-            "relative flex justify-center items-center border-2 rounded-[50%] w-full max-w-[20px]  h-[20px]": true,
-            "border-[#898989] bg-[#898989]": expanded,
+            "relative flex justify-center items-center border  rounded-[50%] w-full max-w-[20px]  h-[20px]": true,
+            "border-[#1870E4] bg-[#1870E4]": expanded,
+            "border-black": !expanded,
           })}
         >
-          <div className={"w-[10px] h-[2px] bg-primary"} />
+          <div className={clsx(
+            {
+              "w-[10px] h-[1px]  rounded-md": true,
+                 "bg-black ": !expanded,
+              "bg-white": expanded,
+            }
+          )} />
           <div
             className={clsx({
-              "transition-all  duration-200 absolute top-[50%] left-[50%] -mt-[5px] -ml-[1px] w-[2px] h-[10px] bg-primary": true,
-              "scale-y-1 ": !expanded,
-              "scale-y-0 ": expanded,
+              "transition-all  duration-400 absolute top-[50%] left-[52%] -mt-[5px] -ml-[1px] w-[1.2px] h-[10px] ": true,
+              "bg-black rounded-md": !expanded,
+              "scale-y-0 bg-transparent": expanded,
             })}
           />
         </div>
       </div>
       <div
-        className={`pt-0 overflow-hidden transition-[max-height] duration-200 ease-linear`}
+        className={`pt-0 overflow-hidden transition-[max-height] duration-500 ease-linear`}
         style={{ maxHeight: expanded ? `${height}px` : `0px` }}
       >
         <div ref={ref}>
-          <div className={clsx({ "mt-3 text-body-caption": expanded })}>
+          <div className={"mt-3 mr-[20px] xl:mr-[24px] text-body-base"}>
             <StyledPrismicRichText field={content} />
           </div>
         </div>

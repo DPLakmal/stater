@@ -35,7 +35,11 @@ const MenuItem = ({ slice }) => {
           "w-full flex items-center": !isCta,
         })}
       >
-        <span className={"!block xl:!pr-2"}>{label}</span>
+        <span
+          className={"!block xl:!pr-2 bg-slate-600 text-body-base font-normal"}
+        >
+          {label}
+        </span>
         {dropdown?.length ? (
           <button
             onClick={(e) => {
@@ -45,7 +49,7 @@ const MenuItem = ({ slice }) => {
             }}
             className={"ms-auto"}
           >
-            <IoChevronDown size={24} />
+            {/* <IoChevronDown size={24} /> */}
           </button>
         ) : null}
       </PrismicNextLink>

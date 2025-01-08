@@ -43,12 +43,12 @@ const FeaturesWith4Cards = ({ slice }) => {
           {slice.primary.features.map((item, index) => (
             <div
               key={index}
-              className="flex flex-col items-center text-center bg-white px-[10px] py-[20px] gap-y-[20px] w-full max-w-[305px]"
+              className="flex flex-col mx-auto items-center text-center bg-white px-[10px] py-[20px] gap-y-[20px] w-full max-w-[305px]"
             >
               <PrismicNextImage
                 fallbackAlt=""
                 field={item.feature_image}
-                className="max-w-[60px] max-h-[60px]  p-[10px]  "
+                className="max-w-[60px] max-h-[60px]  p-[10px] "
               />
               <div className="flex flex-col">
                 <div className="text-body-large mb-[10px]">

@@ -4,7 +4,7 @@ import useDetectScroll from "@smakss/react-scroll-direction";
 
 import React, { useEffect, useState } from "react";
 import { PrismicNextLink } from "@prismicio/next";
-import Logo from '@/assets/images/Header-Logo.png'
+import Logo from "@/assets/images/Header-Logo.png";
 import StyledContainer from "@/components/StyledContainer";
 import clsx from "clsx";
 import MenuItem from "@/slices-layout/MenuItem";
@@ -56,24 +56,24 @@ const NavContainer = ({ settings, navigation }) => {
   return (
     <header
       className={clsx({
-        "z-50 bg-[#fff] transition-all sticky": true,
+        "z-50 bg-[#fff] transition-all sticky shadow-[0_10px_60px_-10px_ rgba(0,0,0,0.2)]": true,
         "top-[-150px]": !stickyMenu,
-        "top-0 shadow-[0_10px_60px_-10px_rgba(0,0,0,0.2)]": stickyMenu,
+        "top-0 ": stickyMenu,
       })}
     >
       <StyledContainer>
         <div
           className={clsx({
             "transition-all flex flex-wrap items-center justify-between gap-x-6 gap-y-3 rounded-[10px] bg-white": true,
-            "h-[58px]": stickyMenu,
-            "h-[58px] lg:h-[78px] xl:h-[88px]": !stickyMenu,
+      "h-[67px] xl:h-[88px]": stickyMenu,
+            "h-[67px] lg:h-[78px] xl:h-[88px]": !stickyMenu,
           })}
         >
           <PrismicNextLink
             href="/"
             className="text-xl font-semibold tracking-tight"
-          >          
-             <Image src={Logo} className="max-w-[119px] max-h-[48px]" alt=""/>
+          >
+            <Image src={Logo} className="max-w-[119px] max-h-[48px]" alt="" />
           </PrismicNextLink>
           <button
             className={`xl:hidden flex items-center`}

@@ -7,7 +7,7 @@ import { PrismicNextImage } from "@prismicio/next";
 const Variant2 = ({ slice }) => {
   return (
     <StyledContainer slice={slice}>
-      <div className="grid grid-cols-1  gap-y-[24px] md:gap-y-[30px] xl:gap-y-[50px] items-center text-center  justify-center xl:px-[88px]">
+      <div className="grid grid-cols-1  gap-y-[24px] md:gap-y-[30px] xl:gap-y-[50px] items-center text-center  justify-center max-w-[1064px] mx-auto">
         <div>
           <StyledPrismicRichTextSingle
             field={slice.primary.subtitle}
@@ -23,7 +23,9 @@ const Variant2 = ({ slice }) => {
 
           <StyledPrismicRichTextSingle
             field={slice.primary.description}
-            className={"text-body-base"}
+            className={
+              "text-body-base max-w-[664px] mx-auto mt-[20px] !leading-[28px] text-[#2B2B2B]"
+            }
           />
 
           <div className="mt-[20px] md:mt-[24px]">

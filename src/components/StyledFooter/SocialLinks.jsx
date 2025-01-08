@@ -67,7 +67,7 @@ const getSocialProfiles = (links) => {
       case "Instagram":
         socialLinks.push({
           link: url,
-          icon: <FaInstagram size={size+2} />,
+          icon: <FaInstagram size={size + 2} />,
         });
         break;
       case "LinkedIn":

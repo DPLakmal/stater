@@ -9,8 +9,8 @@ const FeaturesWithButton = ({ slice }) => {
   return (
     <StyledContainer slice={slice} className="bg-[#F5F7FA]">
       <div className="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]">
-        <div className="flex flex-col xl:flex-row xl:justify-between w-fit">
-          <div className="xl:w-1/2 text-center md:text-start ">
+        <div className="flex flex-col xl:flex-row xl:justify-between w-full">
+          <div className="w-full text-center md:text-start max-w-[520px]">
             <StyledPrismicRichTextSingle
               field={slice.primary.feature_subtitle}
               className="text-base text-[#1774E0] font-semibold leading-[19.36px]"
@@ -40,17 +40,17 @@ const FeaturesWithButton = ({ slice }) => {
           </div>
         </div>
 
-        <div className="flex flex-col items-center  xl:flex-row">
+        <div className="flex flex-col items-center  xl:flex-row xl:mt-[50px]">
           <PrismicNextImage
             fallbackAlt=""
             field={slice.primary.feature_main_image}
             className="rounded-[10px] mt-[40px] mb-[22px] md:mb-[2px] md:mt-[50px] xl:max-w-[542px] xl:max-h-[468px] xl:mt-0 xl:mr-[42px]"
           />
-          <div className="">
+          <div className="mt-[50px] xl:mt-0">
             {slice.primary.features.map((item, index) => (
               <div
                 key={index}
-                className="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+                className="flex flex-row justify-start mt-[20px] md:first:mt-[0px] md:mt-[30px] md:justify-center xl:justify-start"
               >
                 <PrismicNextImage
                   fallbackAlt=""
@@ -64,7 +64,10 @@ const FeaturesWithButton = ({ slice }) => {
                       className="text-body-large font-medium"
                     />
                   </div>
-                  <StyledPrismicRichText field={item.feature_description} />
+                  <StyledPrismicRichText
+                    field={item.feature_description}
+                    className="text-body-base"
+                  />
                 </div>
               </div>
             ))}

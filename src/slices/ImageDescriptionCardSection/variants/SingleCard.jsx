@@ -27,7 +27,9 @@ export default function SingleCard({ slice }) {
           {slice.primary.description && (
             <StyledPrismicRichTextSingle
               field={slice.primary.description}
-              className={"text-body-small text-center text-[#232323] lg:text-start"}
+              className={
+                "text-body-small text-center text-[#232323] lg:text-start"
+              }
             />
           )}
         </div>

@@ -12,7 +12,7 @@ const FooterLinkList = ({ slice }) => {
       <h5 className="title-font text-title-base font-medium mb-[30px]">
         {slice.primary.title}
       </h5>
-      <ul className=" flex flex-col gap-[12px]">
+      <ul className=" flex flex-col gap-[14px]">
         {slice.primary.links.map((item, idx) => (
           <li key={idx}>
             <PrismicNextLink field={item.link} className="text-body-base">

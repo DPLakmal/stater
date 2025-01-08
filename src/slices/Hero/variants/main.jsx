@@ -10,9 +10,7 @@ const Main = ({ slice }) => {
         <div className="max-w-[630px] w-full">
           <StyledPrismicRichTextSingle
             field={slice.primary.subtitle}
-            className={
-              "text-body-base text-[#004EB6] text-center xl:text-left"
-            }
+            className={"text-body-base text-[#004EB6] text-center xl:text-left"}
           />
 
           <StyledPrismicRichTextSingle
