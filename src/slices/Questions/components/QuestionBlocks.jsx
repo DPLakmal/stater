@@ -123,13 +123,13 @@ function Accordion({
             "border-black": !expanded,
           })}
         >
-          <div className={clsx(
-            {
+          <div
+            className={clsx({
               "w-[10px] h-[1px]  rounded-md": true,
-                 "bg-black ": !expanded,
+              "bg-black ": !expanded,
               "bg-white": expanded,
-            }
-          )} />
+            })}
+          />
           <div
             className={clsx({
               "transition-all  duration-400 absolute top-[50%] left-[52%] -mt-[5px] -ml-[1px] w-[1.2px] h-[10px] ": true,

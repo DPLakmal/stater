@@ -25,13 +25,9 @@ const Variation2 = ({ slice }) => {
           <StyledPrismicRichText
             field={slice?.description}
             components={{
-              paragraph: ({ children }) => (
-                <p className={""}>{children}</p>
-              ),
+              paragraph: ({ children }) => <p className={""}>{children}</p>,
               strong: ({ children }) => (
-                <strong className="font-semibold">
-                  {children}
-                </strong>
+                <strong className="font-semibold">{children}</strong>
               ),
               hyperlink: ({ children, node }) => (
                 <PrismicNextLink
@@ -61,7 +57,10 @@ const Variation2 = ({ slice }) => {
         </div>
       </div>
 
-      <div className={`rounded-[10px]`} style={{backgroundColor:slice?.faq_background}}>
+      <div
+        className={`rounded-[10px]`}
+        style={{ backgroundColor: slice?.faq_background }}
+      >
         <QuestionBlocks list={slice.faqs} />
       </div>
     </div>

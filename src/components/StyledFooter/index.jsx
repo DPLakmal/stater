@@ -20,7 +20,11 @@ export default async function StyledFooter({ className }) {
           <div
             className={"text-center md:text-left md:col-span-2 max-w-[413px]"}
           >
-            <Image src={Logo} className="max-w-[119px] max-h-[48px] mx-auto xl:mx-0" alt="" />
+            <Image
+              src={Logo}
+              className="max-w-[119px] max-h-[48px] mx-auto xl:mx-0"
+              alt=""
+            />
             <p className="my-[20px] font-normal text-body-base">
               {settings.data.footer_description}
             </p>

@@ -20,7 +20,10 @@ const FeaturesDefault = ({ slice }) => {
                 className="text-title-x-large font-medium"
               />
             </div>
-            <StyledPrismicRichText field={slice.primary.feature_description} className="text-body-p3 text-[#24282E]"/>
+            <StyledPrismicRichText
+              field={slice.primary.feature_description}
+              className="text-body-p3 text-[#24282E]"
+            />
           </div>
 
           {slice.primary.features.map((item, index) => (
@@ -34,8 +37,14 @@ const FeaturesDefault = ({ slice }) => {
                 className="max-w-[60px] max-h-[60px] mr-[20px] bg-[#F9F9F9] p-[10px] rounded-[10px] "
               />
               <div className="flex flex-col">
-                <StyledPrismicRichTextSingle field={item.feature_title} className="text-title-base font-semibold text-[#383737]"/>
-                <StyledPrismicRichText field={item.feature_description} className='text-body-p3 text-[#24282E]'/>
+                <StyledPrismicRichTextSingle
+                  field={item.feature_title}
+                  className="text-title-base font-semibold text-[#383737]"
+                />
+                <StyledPrismicRichText
+                  field={item.feature_description}
+                  className="text-body-p3 text-[#24282E]"
+                />
               </div>
             </div>
           ))}

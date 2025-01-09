@@ -65,7 +65,7 @@ const NavContainer = ({ settings, navigation }) => {
         <div
           className={clsx({
             "transition-all flex flex-wrap items-center justify-between gap-x-6 gap-y-3 rounded-[10px] bg-white": true,
-      "h-[67px] xl:h-[88px]": stickyMenu,
+            "h-[67px] xl:h-[88px]": stickyMenu,
             "h-[67px] lg:h-[78px] xl:h-[88px]": !stickyMenu,
           })}
         >
